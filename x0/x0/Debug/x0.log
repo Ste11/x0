@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\stell\documents\vs_project\x0\x0\main.cpp(101): warning C4715: move: значение возвращается не при всех путях выполнения
+c:\users\stell\documents\vs_project\x0\x0\main.cpp(168): warning C4715: whoWin: значение возвращается не при всех путях выполнения
+  x0.vcxproj -> C:\Users\stell\Documents\vs_project\x0\Debug\x0.exe
